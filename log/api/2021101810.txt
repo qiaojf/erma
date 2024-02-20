@@ -1,0 +1,3 @@
+2021年10月18日10时10分15秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=5  return:{"code":0,"message":"操作成功","data":{"passWord":"fJVb0Q4q","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":5048,"userName":"3232552","userId":"367"}}
+2021年10月18日10时10分15秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=991  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月18日10时10分6秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=5  return:{"code":0,"message":"操作成功","data":{"passWord":"fxjbxQbR","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":1757,"userName":"wang664818","userId":"991"}}

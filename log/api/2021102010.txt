@@ -1,0 +1,130 @@
+2021年10月20日10时45分41秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=351542020334260  return:{"code":-1,"message":"加入失败","data":[]}
+2021年10月20日10时45分41秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=351542020334260  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时45分41秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=351542020334260  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时45分41秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=336&newNickName=455850000  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时45分41秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=4018&simulatorId=351542020334260  return:{"code":0,"message":"操作成功","data":{"goldCoin":4018,"userId":"336"}}
+2021年10月20日10时44分53秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=358522028584127  return:{"code":-1,"message":"加入失败","data":[]}
+2021年10月20日10时44分53秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358522028584127  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时44分53秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358522028584127  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时44分53秒	api_通知服务器更新密码  url:http://192.168.10.22:8003/api/user/updatePassword?userId=336&newPassword=dbnw779505  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时44分53秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=56&newNickName=auga141753  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时44分53秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=3456&simulatorId=358522028584127  return:{"code":0,"message":"操作成功","data":{"goldCoin":3456,"userId":"56"}}
+2021年10月20日10时44分32秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=56&simulatorId=358522028584127&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时44分27秒	api_获取新密码  url:http://192.168.10.22:8003/api/user/getPassword?userId=336&type=1  return:{"code":0,"message":"操作成功","data":{"passWord":"dbnw779505"}}
+2021年10月20日10时44分27秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=336&simulatorId=351542020334260&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时43分27秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"1mx3q0i0872ohj0","nickName":"auga141753","isPasswordChange":true,"isNickNameChange":true,"goldCoin":3456,"userName":"elangqishi","userId":"56"}}
+2021年10月20日10时43分27秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=152  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时43分20秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"bzQURAUF","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":4018,"userName":"3232362","userId":"336"}}
+2021年10月20日10时43分12秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"29yepydo","nickName":"ftph009625","isPasswordChange":false,"isNickNameChange":true,"goldCoin":6426,"userName":"bo000111","userId":"152"}}
+2021年10月20日10时43分12秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=247  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时43分3秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"08a5060vt","nickName":"agld000415","isPasswordChange":true,"isNickNameChange":true,"goldCoin":6937,"userName":"9696520","userId":"247"}}
+2021年10月20日10时43分3秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=115  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时42分51秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"qRtUFPJD","nickName":"????262033063","isPasswordChange":false,"isNickNameChange":true,"goldCoin":4099,"userName":"90725400","userId":"115"}}
+2021年10月20日10时42分36秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：1","data":[]}
+2021年10月20日10时42分36秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：0","data":[]}
+2021年10月20日10时42分34秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时42分34秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358523025116830  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时42分34秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358523025116830  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月20日10时42分34秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时42分34秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=7949&simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":{"goldCoin":7949,"userId":"167"}}
+2021年10月20日10时42分34秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=358523025116830  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月20日10时42分34秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=0de957ebe42045aa943afd34fb309598&result=1&simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时41分57秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=0de957ebe42045aa943afd34fb309598&simulatorId=358523025116830&otherNick=%E6%8C%BA%E7%81%B5%E6%84%9F%E7%9A%84%E6%9C%8B%E5%8F%8B&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月20日10时41分57秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=358523025116830  return:{"code":0,"message":"获取局id成功","data":"0de957ebe42045aa943afd34fb309598"}
+2021年10月20日10时41分52秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=351542020334260  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月20日10时41分52秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358522028584127  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月20日10时41分52秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月20日10时41分52秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=351542020334260  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：2","data":[]}
+2021年10月20日10时41分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358522028584127  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：2","data":[]}
+2021年10月20日10时41分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：2","data":[]}
+2021年10月20日10时41分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358522028584127  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：1","data":[]}
+2021年10月20日10时41分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：1","data":[]}
+2021年10月20日10时41分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=358523025116830  return:{"code":-1,"message":"等待大家一起报名，当前请求报名的人数：0","data":[]}
+2021年10月20日10时41分49秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=351542020334260  return:{"code":0,"message":"加入成功","data":[]}
+2021年10月20日10时41分49秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=351542020334260  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时41分49秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=358522028584127  return:{"code":0,"message":"加入成功","data":[]}
+2021年10月20日10时41分49秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358522028584127  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时41分49秒	api_申请加入二麻小组  url:http://192.168.10.22:8003/api/user/joinGroup?simulatorId=358523025116830  return:{"code":0,"message":"加入成功","data":[]}
+2021年10月20日10时41分49秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358523025116830  return:{"code":0,"message":"joinGroup","data":[]}
+2021年10月20日10时41分48秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358523025116830  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时41分48秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时41分48秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=7829&simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":{"goldCoin":7829,"userId":"167"}}
+2021年10月20日10时41分46秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=351542020334260  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时41分46秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=351542020334260  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时41分46秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=371&newNickName=%E6%96%B0%E6%89%8B188586362  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时41分46秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=3840&simulatorId=351542020334260  return:{"code":0,"message":"操作成功","data":{"goldCoin":3840,"userId":"371"}}
+2021年10月20日10时41分6秒	api_通知服务器更新密码  url:http://192.168.10.22:8003/api/user/updatePassword?userId=371&newPassword=weab677558  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时41分5秒	api_通知服务器更新密码  url:http://192.168.10.22:8003/api/user/updatePassword?userId=167&newPassword=mqhh509139  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时40分59秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358522028584127  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时40分59秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358522028584127  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时40分59秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=4&newNickName=kvge922940  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时40分59秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=0&simulatorId=358522028584127  return:{"code":0,"message":"操作成功","data":{"goldCoin":0,"userId":"4"}}
+2021年10月20日10时40分40秒	api_获取新密码  url:http://192.168.10.22:8003/api/user/getPassword?userId=371&type=1  return:{"code":0,"message":"操作成功","data":{"passWord":"weab677558"}}
+2021年10月20日10时40分40秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=371&simulatorId=351542020334260&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时40分38秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=4&simulatorId=358522028584127&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时40分38秒	api_获取新密码  url:http://192.168.10.22:8003/api/user/getPassword?userId=167&type=1  return:{"code":0,"message":"操作成功","data":{"passWord":"mqhh509139"}}
+2021年10月20日10时40分38秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=167&simulatorId=358523025116830&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时39分53秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"OYSyHoLs","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":3238,"userName":"1527938","userId":"371"}}
+2021年10月20日10时39分52秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"yzqr859714","nickName":"kvge922940","isPasswordChange":true,"isNickNameChange":false,"goldCoin":4683,"userName":"759126489","userId":"4"}}
+2021年10月20日10时39分51秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=173  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时39分47秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"0C3c6n9E","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":7829,"userName":"1369019","userId":"167"}}
+2021年10月20日10时39分42秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"6975g3d","nickName":"uwvh915748","isPasswordChange":true,"isNickNameChange":true,"goldCoin":4518,"userName":"19880118","userId":"173"}}
+2021年10月20日10时37分16秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"7rs5b463z","nickName":null,"isPasswordChange":true,"isNickNameChange":false,"goldCoin":4250,"userName":"1473249925","userId":"33"}}
+2021年10月20日10时37分16秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=481  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时37分13秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"pdkn498876","nickName":"???de","isPasswordChange":true,"isNickNameChange":true,"goldCoin":5332,"userName":"1754484876","userId":"396"}}
+2021年10月20日10时37分13秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=176  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时37分7秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"9EeYSOHS","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":3018,"userName":"yantaiquxiaoyu","userId":"481"}}
+2021年10月20日10时37分7秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=342  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时37分4秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"12m8nkwl","nickName":"zojm681718","isPasswordChange":true,"isNickNameChange":true,"goldCoin":5025,"userName":"1136571577","userId":"176"}}
+2021年10月20日10时37分3秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=294  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时37分1秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"Nm296eDy","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":3073,"userName":"jxl37240979","userId":"463"}}
+2021年10月20日10时37分1秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=440  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时36分56秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"1x4b7QIR","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":3710,"userName":"4865566","userId":"342"}}
+2021年10月20日10时36分54秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"QqRtaFfJ","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":5016,"userName":"2641004718","userId":"294"}}
+2021年10月20日10时36分52秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"QIRArFiJ","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":4247,"userName":"5058663","userId":"440"}}
+2021年10月20日10时33分9秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358522028584127  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时33分9秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358522028584127  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时33分9秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=519&newNickName=neu%E7%9F%B3%E5%A4%B4  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时33分9秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=5146&simulatorId=358522028584127  return:{"code":0,"message":"操作成功","data":{"goldCoin":5146,"userId":"519"}}
+2021年10月20日10时32分32秒	api_通知服务器更新密码  url:http://192.168.10.22:8003/api/user/updatePassword?userId=519&newPassword=cxap581340  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时32分9秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358523025116830  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时32分9秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358523025116830  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时32分9秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=27&newNickName=borw920624  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时32分9秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=7254&simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":{"goldCoin":7254,"userId":"27"}}
+2021年10月20日10时32分3秒	api_获取新密码  url:http://192.168.10.22:8003/api/user/getPassword?userId=519&type=1  return:{"code":0,"message":"操作成功","data":{"passWord":"cxap581340"}}
+2021年10月20日10时32分3秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=519&simulatorId=358522028584127&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时31分48秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=27&simulatorId=358523025116830&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时31分29秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=351542020334260  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月20日10时31分29秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=341&newNickName=3824888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时31分29秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=6418&simulatorId=351542020334260  return:{"code":0,"message":"操作成功","data":{"goldCoin":6418,"userId":"341"}}
+2021年10月20日10时30分50秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"X285w8ys","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":5146,"userName":"neuliuzhao","userId":"519"}}
+2021年10月20日10时30分49秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=460  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时30分44秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=341&simulatorId=351542020334260&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时30分40秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"9yOoSsGC","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":7486,"userName":"cjhx2321382","userId":"460"}}
+2021年10月20日10时30分40秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=65  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时30分16秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"okjr244626","nickName":"3824888","isPasswordChange":true,"isNickNameChange":true,"goldCoin":6418,"userName":"3824999","userId":"341"}}
+2021年10月20日10时30分11秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"9r2lldj8f021","nickName":"kemg570975","isPasswordChange":true,"isNickNameChange":true,"goldCoin":7673,"userName":"rsczhang","userId":"65"}}
+2021年10月20日10时30分8秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"e01880d9","nickName":"borw920624","isPasswordChange":true,"isNickNameChange":true,"goldCoin":3722,"userName":"1972015394","userId":"27"}}
+2021年10月20日10时21分	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=358523025116830  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时21分	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358523025116830  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时21分	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=443&newNickName=%E9%AD%94%E8%80%81%E6%88%90%E4%BD%9B  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时21分	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=4893&simulatorId=358523025116830  return:{"code":0,"message":"操作成功","data":{"goldCoin":4893,"userId":"443"}}
+2021年10月20日10时20分5秒	api_通知服务器更新密码  url:http://192.168.10.22:8003/api/user/updatePassword?userId=443&newPassword=ozwq902091  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分49秒	api_通知服务器进入二麻场  url:http://192.168.10.22:8003/api/user/noticy?simulatorId=351542020334260  return:{"code":0,"message":"wait","data":[]}
+2021年10月20日10时19分49秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=351542020334260  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":1,"name":"500场"}}
+2021年10月20日10时19分49秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=184&newNickName=%E6%88%91%E5%BE%80%E5%8D%97%E6%96%B9%E5%8E%BB  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分49秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=4108&simulatorId=351542020334260  return:{"code":0,"message":"操作成功","data":{"goldCoin":4108,"userId":"184"}}
+2021年10月20日10时19分45秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=358522028584127  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月20日10时19分45秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=95&newNickName=%E6%96%B0%E6%89%8B265374661  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分45秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=5332&simulatorId=358522028584127  return:{"code":0,"message":"操作成功","data":{"goldCoin":5332,"userId":"95"}}
+2021年10月20日10时19分37秒	api_获取新密码  url:http://192.168.10.22:8003/api/user/getPassword?userId=443&type=1  return:{"code":0,"message":"操作成功","data":{"passWord":"ozwq902091"}}
+2021年10月20日10时19分37秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=443&simulatorId=358523025116830&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分28秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=184&simulatorId=351542020334260&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分26秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=95&simulatorId=358522028584127&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时19分	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"dadu255878","nickName":null,"isPasswordChange":true,"isNickNameChange":false,"goldCoin":4108,"userName":"1135750","userId":"184"}}
+2021年10月20日10时19分	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=372  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时18分56秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"RPUFfJVZ","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":4893,"userName":"xujun2","userId":"443"}}
+2021年10月20日10时18分56秒	api_提交失败id  url:http://192.168.10.22:8003/api/user/loginFail?userId=34  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月20日10时18分49秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"XJBZ1B4w","nickName":null,"isPasswordChange":false,"isNickNameChange":false,"goldCoin":5037,"userName":"2121111","userId":"372"}}
+2021年10月20日10时18分45秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"l5hz9k","nickName":null,"isPasswordChange":true,"isNickNameChange":false,"goldCoin":5197,"userName":"729802141","userId":"34"}}
+2021年10月20日10时18分45秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"xp5sdki5s","nickName":"????265374661","isPasswordChange":true,"isNickNameChange":true,"goldCoin":5332,"userName":"zq860908","userId":"95"}}

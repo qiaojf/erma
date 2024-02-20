@@ -1,0 +1,1 @@
+2021年10月25日13时50分46秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"tmbl346641","nickName":"wcpadsl","isPasswordChange":true,"isNickNameChange":true,"goldCoin":5245,"userName":"wcpwyhwn","userId":"477"}}

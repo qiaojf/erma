@@ -1,0 +1,633 @@
+2021年10月22日7时34分43秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时34分38秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"此号金币数不够，退回普通场","data":"exit"}
+2021年10月22日7时34分38秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=a87b3a05dd6444b8ba0d2ade86b46294&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时34分27秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时34分13秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时34分13秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时34分10秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时34分10秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时34分10秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56753&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56753,"userId":"256"}}
+2021年10月22日7时34分10秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时34分10秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=719151a931c64728aa1c8f3282e2339c&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时33分44秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=a87b3a05dd6444b8ba0d2ade86b46294&simulatorId=010139026475479&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时33分44秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=719151a931c64728aa1c8f3282e2339c&simulatorId=010305022787858&otherNick=KAKA%E9%9B%AA%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时33分44秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"a87b3a05dd6444b8ba0d2ade86b46294"}
+2021年10月22日7时33分44秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"719151a931c64728aa1c8f3282e2339c"}
+2021年10月22日7时33分36秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时33分36秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时33分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时33分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时32分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时32分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时32分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时32分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时32分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时32分54秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时32分53秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分53秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56717&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56717,"userId":"256"}}
+2021年10月22日7时32分53秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时32分53秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分53秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=787&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":787,"userId":"167"}}
+2021年10月22日7时32分53秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时32分53秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=6dade1f6a14d4688a29e6599a6bc0387&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分53秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时32分52秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=e2530dbfc3a34704a5e457e4670607de&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分22秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=e2530dbfc3a34704a5e457e4670607de&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时32分22秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=6dade1f6a14d4688a29e6599a6bc0387&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时32分22秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"e2530dbfc3a34704a5e457e4670607de"}
+2021年10月22日7时32分22秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"6dade1f6a14d4688a29e6599a6bc0387"}
+2021年10月22日7时32分14秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时32分14秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时32分6秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时32分6秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时32分6秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时32分5秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时32分5秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时32分3秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时32分3秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分3秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1033&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1033,"userId":"167"}}
+2021年10月22日7时32分3秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时32分2秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分2秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56475&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56475,"userId":"256"}}
+2021年10月22日7时32分2秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时32分2秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=b20f575a3aa84c5bb022e8a305f31e17&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时32分2秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时32分2秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=8091b27de1e34f9283b0d0f7bc534b3b&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时31分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=8091b27de1e34f9283b0d0f7bc534b3b&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时31分11秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"8091b27de1e34f9283b0d0f7bc534b3b"}
+2021年10月22日7时31分10秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=b20f575a3aa84c5bb022e8a305f31e17&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时31分10秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"b20f575a3aa84c5bb022e8a305f31e17"}
+2021年10月22日7时31分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时31分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时30分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时30分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时30分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时30分57秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时30分57秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时30分57秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56337&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56337,"userId":"256"}}
+2021年10月22日7时30分56秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时30分56秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=4f2d9b2ca4dc4b5c8057cd7f398d9224&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时30分26秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时30分23秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时30分23秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时30分21秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时30分21秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时30分21秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1175&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1175,"userId":"167"}}
+2021年10月22日7时30分20秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时30分20秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=fb3363614da0426283bd882b6837c0d6&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时29分59秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=fb3363614da0426283bd882b6837c0d6&simulatorId=010139026475479&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时29分59秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"fb3363614da0426283bd882b6837c0d6"}
+2021年10月22日7时29分56秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=4f2d9b2ca4dc4b5c8057cd7f398d9224&simulatorId=010305022787858&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时29分56秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"4f2d9b2ca4dc4b5c8057cd7f398d9224"}
+2021年10月22日7时29分48秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时29分48秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时29分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时29分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时28分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时28分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时28分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时28分47秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时28分46秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时28分46秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56257&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56257,"userId":"256"}}
+2021年10月22日7时28分46秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时28分46秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=301a0c7d5942417f8950b8ac9c836762&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时28分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时28分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时28分37秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时28分36秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时28分36秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1205&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1205,"userId":"167"}}
+2021年10月22日7时28分36秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时28分36秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=438f2cabd818499e93c43bbd0697d92f&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时28分7秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=438f2cabd818499e93c43bbd0697d92f&simulatorId=010139026475479&otherNick=%E5%B0%8F%E9%9B%A8%E5%BD%B1%E5%AD%90&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时28分7秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"438f2cabd818499e93c43bbd0697d92f"}
+2021年10月22日7时28分	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=301a0c7d5942417f8950b8ac9c836762&simulatorId=010305022787858&otherNick=%E5%BF%98%E4%B9%8E%E6%89%80%E4%BB%A5%E6%9C%AA%E4%BA%86%E7%9A%84%E6%83%85&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时28分	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"301a0c7d5942417f8950b8ac9c836762"}
+2021年10月22日7时27分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时27分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时27分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时27分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时27分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时27分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时27分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时27分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时27分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时27分37秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时27分37秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时27分37秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时27分37秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56501&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56501,"userId":"256"}}
+2021年10月22日7时27分37秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时27分37秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1227&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1227,"userId":"167"}}
+2021年10月22日7时27分36秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时27分36秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=abc53aeb646948e1afdd0eea15874b9b&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时27分36秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时27分36秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=a496e951a5614e4f933f33b476048fde&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时27分7秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=abc53aeb646948e1afdd0eea15874b9b&simulatorId=010305022787858&otherNick=%E6%BC%82%E9%A3%8E&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时27分7秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"abc53aeb646948e1afdd0eea15874b9b"}
+2021年10月22日7时27分6秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=a496e951a5614e4f933f33b476048fde&simulatorId=010139026475479&otherNick=%E7%8F%A0%E7%AB%AF%E5%B0%8F%E7%8C%AB&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时27分5秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"a496e951a5614e4f933f33b476048fde"}
+2021年10月22日7时26分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时26分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时26分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时26分55秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时26分55秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时26分55秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56715&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56715,"userId":"256"}}
+2021年10月22日7时26分54秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时26分54秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=4eacecefe9a045b7ace4cd1bb92ba5c2&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时26分53秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时26分36秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时26分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时26分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时26分32秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时26分32秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时26分32秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1131&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1131,"userId":"167"}}
+2021年10月22日7时26分32秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时26分31秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=adcbd362e974400f8bf1f8b1975ccd9b&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时26分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=4eacecefe9a045b7ace4cd1bb92ba5c2&simulatorId=010305022787858&otherNick=%E8%95%8A%E4%BB%94%E4%BB%94%E5%9B%B4%E8%84%96&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时26分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=adcbd362e974400f8bf1f8b1975ccd9b&simulatorId=010139026475479&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时26分11秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"4eacecefe9a045b7ace4cd1bb92ba5c2"}
+2021年10月22日7时26分11秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"adcbd362e974400f8bf1f8b1975ccd9b"}
+2021年10月22日7时26分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时26分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时25分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时25分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时25分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时25分53秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时25分53秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时25分53秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56745&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56745,"userId":"256"}}
+2021年10月22日7时25分52秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时25分52秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=8b293e9493bd4048b5d8562b8049968e&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时25分46秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时25分44秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时25分44秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时25分42秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时25分42秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时25分42秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1171&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1171,"userId":"167"}}
+2021年10月22日7时25分41秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时25分41秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=a517cee7565b4d18b5452531355fc989&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时25分17秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=a517cee7565b4d18b5452531355fc989&simulatorId=010139026475479&otherNick=198365&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时25分17秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=8b293e9493bd4048b5d8562b8049968e&simulatorId=010305022787858&otherNick=%E6%BD%AE%E7%81%B5%E6%B3%8A%E5%91%B3&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时25分17秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"a517cee7565b4d18b5452531355fc989"}
+2021年10月22日7时25分17秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"8b293e9493bd4048b5d8562b8049968e"}
+2021年10月22日7时25分9秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时25分9秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时25分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时25分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时25分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时25分	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时24分59秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时24分59秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1501&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1501,"userId":"167"}}
+2021年10月22日7时24分59秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时24分59秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=920196ede3c44054a3926050b4b55965&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时24分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时24分48秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时24分48秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时24分46秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时24分46秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时24分46秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56849&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56849,"userId":"256"}}
+2021年10月22日7时24分45秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时24分45秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=47a5bde4e0fc40f1b858d61edc492602&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时24分6秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=47a5bde4e0fc40f1b858d61edc492602&simulatorId=010305022787858&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时24分6秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"47a5bde4e0fc40f1b858d61edc492602"}
+2021年10月22日7时24分5秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=920196ede3c44054a3926050b4b55965&simulatorId=010139026475479&otherNick=%E5%BF%98%E4%B9%8E%E6%89%80%E4%BB%A5%E6%9C%AA%E4%BA%86%E7%9A%84%E6%83%85&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时24分5秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"920196ede3c44054a3926050b4b55965"}
+2021年10月22日7时23分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时23分57秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时23分54秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时23分54秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时23分54秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时23分52秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时23分52秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时23分52秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56729&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56729,"userId":"256"}}
+2021年10月22日7时23分51秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时23分51秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d2de9cf9b9e744908899c0519105d7dd&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时23分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时23分45秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时23分45秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时23分42秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时23分42秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时23分42秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1693&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1693,"userId":"167"}}
+2021年10月22日7时23分42秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时23分42秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=9601c100946042e8810ea800d967f696&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时23分5秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d2de9cf9b9e744908899c0519105d7dd&simulatorId=010305022787858&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时23分4秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=9601c100946042e8810ea800d967f696&simulatorId=010139026475479&otherNick=%E6%96%97%E7%A0%B4%E8%8B%8D%E5%BC%AF%E2%98%85&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时23分4秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"d2de9cf9b9e744908899c0519105d7dd"}
+2021年10月22日7时23分4秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"9601c100946042e8810ea800d967f696"}
+2021年10月22日7时22分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时22分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时22分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时22分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时22分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时22分52秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时22分52秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时22分52秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1471&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1471,"userId":"167"}}
+2021年10月22日7时22分52秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时22分52秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d73e21ad3dbc4f21a9c61037d4101298&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时22分41秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时22分38秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时22分38秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时22分36秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时22分36秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时22分36秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56595&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56595,"userId":"256"}}
+2021年10月22日7时22分35秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时22分35秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=f24b7284224f45b4bdc003eb4139a8c3&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时22分17秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d73e21ad3dbc4f21a9c61037d4101298&simulatorId=010139026475479&otherNick=%E5%BF%98%E4%B9%8E%E6%89%80%E4%BB%A5%E6%9C%AA%E4%BA%86%E7%9A%84%E6%83%85&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时22分17秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"d73e21ad3dbc4f21a9c61037d4101298"}
+2021年10月22日7时22分15秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=f24b7284224f45b4bdc003eb4139a8c3&simulatorId=010305022787858&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时22分15秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"f24b7284224f45b4bdc003eb4139a8c3"}
+2021年10月22日7时22分7秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时22分7秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时22分5秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时22分5秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时21分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时21分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时21分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时21分56秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时21分56秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时21分56秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1635&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1635,"userId":"167"}}
+2021年10月22日7时21分55秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时21分55秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=ced6b2a0796246bfb42f4cd5ff60d9be&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时21分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时21分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时21分44秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时21分44秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时21分44秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56489&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56489,"userId":"256"}}
+2021年10月22日7时21分44秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时21分44秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=b3f34690143f4b3991d22d9505185189&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时21分7秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=b3f34690143f4b3991d22d9505185189&simulatorId=010305022787858&otherNick=%E8%89%B3%E4%BB%94%E5%8F%AB%E5%8A%A0%E8%82%A5%E7%86%8A&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时21分7秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"b3f34690143f4b3991d22d9505185189"}
+2021年10月22日7时21分3秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=ced6b2a0796246bfb42f4cd5ff60d9be&simulatorId=010139026475479&otherNick=%E5%B0%8F%E7%8C%AA%E5%AE%83%E5%93%A5&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时21分3秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"ced6b2a0796246bfb42f4cd5ff60d9be"}
+2021年10月22日7时20分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时20分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时20分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时20分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时20分49秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时20分47秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时20分47秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时20分46秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56513&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56513,"userId":"256"}}
+2021年10月22日7时20分46秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时20分46秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=f897dd30852842be9abe6d31f452d395&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时20分32秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时20分30秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时20分30秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时20分28秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时20分27秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时20分27秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1501&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1501,"userId":"167"}}
+2021年10月22日7时20分27秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时20分27秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=2e24c5f030834ab5afff26cf7c1c8f15&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时19分56秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=f897dd30852842be9abe6d31f452d395&simulatorId=010305022787858&otherNick=%E8%95%8A%E4%BB%94%E4%BB%94%E5%9B%B4%E8%84%96&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时19分56秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"f897dd30852842be9abe6d31f452d395"}
+2021年10月22日7时19分55秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=2e24c5f030834ab5afff26cf7c1c8f15&simulatorId=010139026475479&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时19分55秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"2e24c5f030834ab5afff26cf7c1c8f15"}
+2021年10月22日7时19分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时19分47秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时19分46秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时19分46秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时19分46秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时19分44秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时19分44秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时19分44秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1663&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1663,"userId":"167"}}
+2021年10月22日7时19分43秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时19分43秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=6405bed2d1be43209a48c85a3a0ad869&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时19分41秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时19分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时19分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时19分38秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时19分38秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时19分38秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56745&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56745,"userId":"256"}}
+2021年10月22日7时19分37秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时19分37秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=84e1059a8e534dd48e0501e1f45f367c&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时19分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=6405bed2d1be43209a48c85a3a0ad869&simulatorId=010139026475479&otherNick=%E8%95%8A%E4%BB%94%E4%BB%94%E5%9B%B4%E8%84%96&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时19分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=84e1059a8e534dd48e0501e1f45f367c&simulatorId=010305022787858&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时19分11秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"6405bed2d1be43209a48c85a3a0ad869"}
+2021年10月22日7时19分11秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"84e1059a8e534dd48e0501e1f45f367c"}
+2021年10月22日7时19分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时19分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时19分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时19分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时19分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时18分59秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时18分58秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时18分58秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=1815&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":1815,"userId":"167"}}
+2021年10月22日7时18分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时18分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=7125ca05119142e4a2ced6d300a8d2bb&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时18分46秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时18分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时18分40秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时18分37秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时18分37秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时18分37秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56567&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56567,"userId":"256"}}
+2021年10月22日7时18分37秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时18分37秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=ac9cfe271f7d409a9a78dd5e31a20eb1&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时18分16秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=ac9cfe271f7d409a9a78dd5e31a20eb1&simulatorId=010305022787858&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时18分16秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"ac9cfe271f7d409a9a78dd5e31a20eb1"}
+2021年10月22日7时18分14秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=7125ca05119142e4a2ced6d300a8d2bb&simulatorId=010139026475479&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时18分14秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"7125ca05119142e4a2ced6d300a8d2bb"}
+2021年10月22日7时18分6秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时18分6秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时18分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时18分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时18分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时18分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时18分	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时18分	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时17分58秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时17分58秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时17分58秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2183&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2183,"userId":"167"}}
+2021年10月22日7时17分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时17分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=f11acae8bd094a60a8afa419fe087981&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时17分57秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时17分57秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时17分57秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56447&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56447,"userId":"256"}}
+2021年10月22日7时17分57秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时17分57秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=a6bc722176b94a04a5e00bd8e6013012&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时17分23秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=f11acae8bd094a60a8afa419fe087981&simulatorId=010139026475479&otherNick=%E5%B1%95%E5%88%9B%E6%96%B0%E9%AB%98%E7%9A%84%E5%A5%B6%E8%83%96&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时17分23秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=a6bc722176b94a04a5e00bd8e6013012&simulatorId=010305022787858&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时17分22秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"f11acae8bd094a60a8afa419fe087981"}
+2021年10月22日7时17分22秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"a6bc722176b94a04a5e00bd8e6013012"}
+2021年10月22日7时17分14秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时17分14秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时17分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时17分3秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时17分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时17分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时17分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时16分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时16分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时16分59秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时16分58秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时16分58秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2047&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2047,"userId":"167"}}
+2021年10月22日7时16分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时16分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=c029a1d0aadc4dd29761adf44d1a227b&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时16分56秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时16分56秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时16分56秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56217&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56217,"userId":"256"}}
+2021年10月22日7时16分55秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时16分55秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d74e730b65d24364b2d33c85f2779ccd&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时16分22秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d74e730b65d24364b2d33c85f2779ccd&simulatorId=010305022787858&otherNick=%E5%A4%A9%E5%BA%9C%E4%BA%91&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时16分22秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"d74e730b65d24364b2d33c85f2779ccd"}
+2021年10月22日7时16分19秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=c029a1d0aadc4dd29761adf44d1a227b&simulatorId=010139026475479&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时16分19秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"c029a1d0aadc4dd29761adf44d1a227b"}
+2021年10月22日7时16分11秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时16分11秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时15分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时15分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时15分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时15分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时15分35秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时15分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时15分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时15分33秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时15分33秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时15分32秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2103&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2103,"userId":"167"}}
+2021年10月22日7时15分32秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时15分32秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时15分32秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=5f371bbae39f4a0e8ce403ead07118c7&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时15分32秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时15分32秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56607&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56607,"userId":"256"}}
+2021年10月22日7时15分31秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时15分31秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=092c47e9b42c48709c0ae8d832fc5d31&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时15分12秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=092c47e9b42c48709c0ae8d832fc5d31&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时15分12秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"092c47e9b42c48709c0ae8d832fc5d31"}
+2021年10月22日7时15分11秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=5f371bbae39f4a0e8ce403ead07118c7&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时15分10秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"5f371bbae39f4a0e8ce403ead07118c7"}
+2021年10月22日7时15分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时15分2秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时15分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时15分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时15分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时14分59秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时14分59秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时14分58秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2313&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2313,"userId":"167"}}
+2021年10月22日7时14分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时14分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=8c25f394828e409ca75d1f1509817d98&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时14分45秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时14分42秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时14分42秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时14分39秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时14分39秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时14分39秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56401&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56401,"userId":"256"}}
+2021年10月22日7时14分39秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时14分39秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d09648ff68c944ef8ecac6f7fcd68d7d&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时13分53秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d09648ff68c944ef8ecac6f7fcd68d7d&simulatorId=010305022787858&otherNick=JHJ55696&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时13分53秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=8c25f394828e409ca75d1f1509817d98&simulatorId=010139026475479&otherNick=%E6%96%B0%E6%89%8B290560234&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时13分53秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"d09648ff68c944ef8ecac6f7fcd68d7d"}
+2021年10月22日7时13分53秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"8c25f394828e409ca75d1f1509817d98"}
+2021年10月22日7时13分45秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时13分45秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时13分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时13分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时13分34秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时13分31秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时13分31秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时13分31秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2369&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2369,"userId":"167"}}
+2021年10月22日7时13分31秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时13分31秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=95685ac366a1486bbaa7ca287ead8274&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时13分26秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时13分17秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时13分17秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时13分15秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时13分14秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时13分14秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56287&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56287,"userId":"256"}}
+2021年10月22日7时13分14秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时13分14秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=411e7acf44744f578aa594cb0d482785&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时12分59秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=95685ac366a1486bbaa7ca287ead8274&simulatorId=010139026475479&otherNick=198365&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时12分59秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"95685ac366a1486bbaa7ca287ead8274"}
+2021年10月22日7时12分41秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=411e7acf44744f578aa594cb0d482785&simulatorId=010305022787858&otherNick=%E5%88%87%E6%96%AD8%E8%B4%9D%E5%90%89%E5%A1%94&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时12分41秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"411e7acf44744f578aa594cb0d482785"}
+2021年10月22日7时12分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时12分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时12分32秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时12分32秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时12分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时12分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时12分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时12分17秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时12分17秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时12分17秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56399&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56399,"userId":"256"}}
+2021年10月22日7时12分16秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时12分16秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=9aa0b59943004c4e932729833f89878d&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时11分56秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时11分54秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时11分54秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分54秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2519&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2519,"userId":"167"}}
+2021年10月22日7时11分53秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时11分53秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=a9a7e26a409946dcb9fe701c082a66d4&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分27秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=9aa0b59943004c4e932729833f89878d&simulatorId=010305022787858&otherNick=%E5%B0%8F%E7%8C%AA%E5%AE%83%E5%93%A5&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时11分27秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=a9a7e26a409946dcb9fe701c082a66d4&simulatorId=010139026475479&otherNick=%E6%B3%B0%E7%8C%AB%E5%B7%A6%E8%84%91%E8%85%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时11分27秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"9aa0b59943004c4e932729833f89878d"}
+2021年10月22日7时11分27秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"a9a7e26a409946dcb9fe701c082a66d4"}
+2021年10月22日7时11分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时11分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时11分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时11分19秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时11分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时11分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时11分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时11分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时11分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时11分13秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时11分13秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分12秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2309&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2309,"userId":"167"}}
+2021年10月22日7时11分12秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时11分12秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分12秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=56099&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":56099,"userId":"256"}}
+2021年10月22日7时11分12秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时11分12秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=80fca5cebf2842189c16ee0dc7b8ee5c&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时11分12秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时11分12秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=7dcf85b7c25141f2a2035c4a36d486e7&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时10分35秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=7dcf85b7c25141f2a2035c4a36d486e7&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时10分35秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=80fca5cebf2842189c16ee0dc7b8ee5c&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时10分34秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"7dcf85b7c25141f2a2035c4a36d486e7"}
+2021年10月22日7时10分34秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"80fca5cebf2842189c16ee0dc7b8ee5c"}
+2021年10月22日7时10分25秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时10分25秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时10分25秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时10分24秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时10分24秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时10分23秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时10分23秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时10分22秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2463&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2463,"userId":"167"}}
+2021年10月22日7时10分22秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时10分22秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=6a19b732c7af4a82b2605f2cd038839c&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时10分22秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时10分22秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时10分21秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55949&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55949,"userId":"256"}}
+2021年10月22日7时10分21秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时10分21秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=18552c409cc64152b0dc678726e9c344&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时9分3秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=18552c409cc64152b0dc678726e9c344&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时9分3秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=6a19b732c7af4a82b2605f2cd038839c&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时9分3秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"18552c409cc64152b0dc678726e9c344"}
+2021年10月22日7时9分3秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"6a19b732c7af4a82b2605f2cd038839c"}
+2021年10月22日7时8分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时8分55秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时8分53秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时8分53秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时8分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时8分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时8分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时8分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时8分1秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时7分59秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时7分59秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分59秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55851&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55851,"userId":"256"}}
+2021年10月22日7时7分58秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时7分58秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时7分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=820291e865b54c98b08c6e3a5c3abf6c&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分58秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2565&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2565,"userId":"167"}}
+2021年10月22日7时7分58秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时7分58秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=cb9c639c9c034ed9b533af3e1d2fa8b2&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分37秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=820291e865b54c98b08c6e3a5c3abf6c&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时7分36秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"820291e865b54c98b08c6e3a5c3abf6c"}
+2021年10月22日7时7分36秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=cb9c639c9c034ed9b533af3e1d2fa8b2&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时7分36秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"cb9c639c9c034ed9b533af3e1d2fa8b2"}
+2021年10月22日7时7分28秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时7分28秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时7分27秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时7分27秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时7分27秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时7分27秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时7分25秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时7分25秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分25秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55721&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55721,"userId":"256"}}
+2021年10月22日7时7分24秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时7分24秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=0d2e502126124a6ab05c5d16d27556c1&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分16秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时7分15秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时7分13秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时7分13秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时7分13秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2699&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2699,"userId":"167"}}
+2021年10月22日7时7分13秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时7分12秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=2ccbcc19edb1464986baa1155d525510&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时6分44秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=2ccbcc19edb1464986baa1155d525510&simulatorId=010139026475479&otherNick=%E8%89%B3%E4%BB%94%E5%8F%AB%E5%8A%A0%E8%82%A5%E7%86%8A&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时6分44秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"2ccbcc19edb1464986baa1155d525510"}
+2021年10月22日7时6分41秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=0d2e502126124a6ab05c5d16d27556c1&simulatorId=010305022787858&otherNick=%E5%B0%8F%E4%BA%8C%E5%93%A52%E5%8F%B7&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时6分41秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"0d2e502126124a6ab05c5d16d27556c1"}
+2021年10月22日7时6分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时6分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时6分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时6分33秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时6分17秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时6分17秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时6分17秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时6分15秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时6分14秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时6分14秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55947&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55947,"userId":"256"}}
+2021年10月22日7时6分14秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时6分14秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=c013cf356041492d9f41f7016d301854&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时6分8秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时6分7秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时6分5秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时6分5秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时6分5秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2937&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2937,"userId":"167"}}
+2021年10月22日7时6分4秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时6分4秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=7aca94b6c159442aa8bc812426f358ad&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时5分40秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=c013cf356041492d9f41f7016d301854&simulatorId=010305022787858&otherNick=%E5%B0%8F%E4%BA%8C%E5%93%A52%E5%8F%B7&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时5分40秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"c013cf356041492d9f41f7016d301854"}
+2021年10月22日7时5分37秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=7aca94b6c159442aa8bc812426f358ad&simulatorId=010139026475479&otherNick=%E6%B8%B8%E5%AD%90699&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"对方不是自己人，你赢","data":"win"}
+2021年10月22日7时5分37秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"7aca94b6c159442aa8bc812426f358ad"}
+2021年10月22日7时5分29秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时5分29秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时5分29秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时5分29秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时5分29秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时5分27秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时5分27秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时5分26秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时5分26秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55795&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55795,"userId":"256"}}
+2021年10月22日7时5分26秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时5分26秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2755&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2755,"userId":"167"}}
+2021年10月22日7时5分26秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时5分26秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=4e2bdeb89ce7419a85ad7c0d8d8f7bd7&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时5分26秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时5分26秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d8da0682dbea4bf1848750e2e0e85a40&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时4分	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d8da0682dbea4bf1848750e2e0e85a40&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时4分	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"d8da0682dbea4bf1848750e2e0e85a40"}
+2021年10月22日7时3分59秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=4e2bdeb89ce7419a85ad7c0d8d8f7bd7&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时3分59秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"4e2bdeb89ce7419a85ad7c0d8d8f7bd7"}
+2021年10月22日7时3分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时3分51秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时3分50秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时3分50秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时2分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时2分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时2分39秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时2分37秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日7时2分37秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日7时2分36秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时2分36秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时2分36秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=2857&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":2857,"userId":"167"}}
+2021年10月22日7时2分36秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时2分36秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=47ebe0482d294bdd9e14794afd25fdb3&result=0&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时2分35秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时2分34秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时2分34秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55697&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55697,"userId":"256"}}
+2021年10月22日7时2分34秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时2分34秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=770d022771cf4e7986c1d3e89785fb9f&result=1&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时2分7秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=770d022771cf4e7986c1d3e89785fb9f&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时2分7秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=47ebe0482d294bdd9e14794afd25fdb3&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时2分7秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"770d022771cf4e7986c1d3e89785fb9f"}
+2021年10月22日7时2分6秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"47ebe0482d294bdd9e14794afd25fdb3"}
+2021年10月22日7时1分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时1分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时1分59秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时1分58秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：3","data":[]}
+2021年10月22日7时1分58秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：2","data":[]}
+2021年10月22日7时1分55秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010139026475479  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时1分55秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=167&newNickName=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时1分55秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305022787858  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日7时1分55秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=3077&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":{"goldCoin":3077,"userId":"167"}}
+2021年10月22日7时1分55秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=256&newNickName=mbqi341276  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时1分55秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=55481&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":{"goldCoin":55481,"userId":"256"}}
+2021年10月22日7时1分55秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010139026475479  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时1分55秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=3ec5b92c8cab413687745f0c84f12992&result=1&simulatorId=010139026475479  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时1分54秒	api_询问是否继续打二麻  url:http://192.168.10.22:8003/api/user/again?&simulatorId=010305022787858  return:{"code":0,"message":"可以继续打","data":"success"}
+2021年10月22日7时1分54秒	api_提交对局结果  url:http://192.168.10.22:8003/api/user/matchPlayResult2?matchId=d2c6261a4bcc4b6cad6d4006ad576dc8&result=0&simulatorId=010305022787858  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日7时0分20秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=3ec5b92c8cab413687745f0c84f12992&simulatorId=010139026475479&otherNick=mbqi341276&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币少，你输","data":"lose"}
+2021年10月22日7时0分20秒	api_提交本局基本信息  url:http://192.168.10.22:8003/api/user/matchBaseInfo2?&matchId=d2c6261a4bcc4b6cad6d4006ad576dc8&simulatorId=010305022787858&otherNick=%E6%B8%85%E6%B8%85%E9%9F%B5%E5%84%BF&jsonMe=-1&type=1&jsonLandlord=-1  return:{"code":0,"message":"你金币多，你赢","data":"win"}
+2021年10月22日7时0分20秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010139026475479  return:{"code":0,"message":"获取局id成功","data":"3ec5b92c8cab413687745f0c84f12992"}
+2021年10月22日7时0分20秒	api_获取游戏对局ID  url:http://192.168.10.22:8003/api/user/matchNew?simulatorId=010305022787858  return:{"code":0,"message":"获取局id成功","data":"d2c6261a4bcc4b6cad6d4006ad576dc8"}
+2021年10月22日7时0分12秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305022787858  return:{"code":0,"message":"可以报名","data":[]}
+2021年10月22日7时0分12秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010139026475479  return:{"code":0,"message":"可以报名","data":[]}

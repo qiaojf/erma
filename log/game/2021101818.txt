@@ -1,0 +1,4 @@
+2021年10月18日18时0分45秒	模拟器:JJparents-1 修改密码成功 账号:hjhxhn 旧密码:V3v7mquP 新密码:ecpi877175 userId:798
+2021年10月18日18时0分45秒	执行步骤  修改密码成功: userID:798 password:V3v7mquP newpassword:ecpi877175
+2021年10月18日18时0分40秒	模拟器:JJparents-2 修改密码成功 账号:xiaoqiu12 旧密码:SsGXKNX2 新密码:dmsq955384 userId:718
+2021年10月18日18时0分40秒	执行步骤  修改密码成功: userID:718 password:SsGXKNX2 newpassword:dmsq955384

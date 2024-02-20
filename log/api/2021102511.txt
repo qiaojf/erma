@@ -1,0 +1,2 @@
+2021年10月25日11时25分55秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"m99712453514","nickName":null,"isPasswordChange":true,"isNickNameChange":false,"goldCoin":3026,"userName":"wawj520","userId":"822"}}
+2021年10月25日11时25分54秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":-1,"message":"用户正在使用！","data":[]}

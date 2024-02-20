@@ -1,0 +1,7 @@
+2021年10月22日15时7分10秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305025164741  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：1","data":[]}
+2021年10月22日15时7分10秒	api_是否开始报名  url:http://192.168.10.22:8003/api/user/askForEnroll?simulatorId=010305025164741  return:{"code":-1,"message":"等待大家一起报名，小组请求报名的人数：0","data":[]}
+2021年10月22日15时7分8秒	api_要进入的游戏类型  url:http://192.168.10.22:8003/api/user/matchJoin?simulatorId=010305025164741  return:{"code":0,"message":"获取游戏场次类型成功","data":{"placeType":4,"name":"二人"}}
+2021年10月22日15时7分8秒	api_更新昵称  url:http://192.168.10.22:8003/api/user/updateNickName?userId=276&newNickName=JHJ55696  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日15时7分8秒	api_更新金币数  url:http://192.168.10.22:8003/api/user/goldCoin?goldCoin=11157&simulatorId=010305025164741  return:{"code":0,"message":"操作成功","data":{"goldCoin":11157,"userId":"276"}}
+2021年10月22日15时6分3秒	api_绑定用户信息  url:http://192.168.10.22:8003/api/user/bind?userId=276&simulatorId=010305025164741&pc=DESKTOP-L63MRVE&pid=888  return:{"code":0,"message":"操作成功","data":[]}
+2021年10月22日15时5分6秒	api_获取账号密码id  url:http://192.168.10.22:8003/api/user/getUser?type=9  return:{"code":0,"message":"操作成功","data":{"passWord":"gkoe428171","nickName":"JHJ55696","isPasswordChange":true,"isNickNameChange":true,"goldCoin":11337,"userName":"3706153","userId":"276"}}

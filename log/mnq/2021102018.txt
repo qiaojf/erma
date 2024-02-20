@@ -1,0 +1,1257 @@
+2021年10月20日18时59分39秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时59分38秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时59分38秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时59分38秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时59分37秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时59分36秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时59分33秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时59分30秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时59分30秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时59分30秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时59分30秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时59分30秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时59分30秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时59分28秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时59分28秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时59分28秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时59分28秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时59分28秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时59分28秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时59分27秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时59分27秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时59分27秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时59分27秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时59分27秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时59分27秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时59分24秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时59分24秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时59分1秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时59分1秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时59分	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时58分59秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时58分59秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时58分59秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时58分59秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时58分55秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时58分55秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时58分51秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时58分51秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时58分51秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时58分51秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时58分49秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时58分45秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时58分42秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时58分40秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时58分36秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时58分16秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时58分15秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时58分13秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时58分13秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时58分13秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时58分13秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时58分12秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时58分12秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时58分12秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时58分8秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时58分8秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时58分6秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时58分6秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时58分6秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时58分6秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时58分5秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时58分5秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时58分5秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时58分5秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时58分5秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时58分4秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时58分2秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时58分2秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时57分59秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时57分59秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时57分57秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时57分56秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时57分54秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时57分53秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时57分53秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时57分52秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时57分51秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时57分32秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时57分29秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时57分26秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时57分25秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时57分24秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时57分24秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时57分22秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时57分22秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时57分22秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时57分22秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时57分18秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时57分18秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时57分18秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时57分18秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时57分16秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时57分16秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时57分15秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时57分15秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时57分15秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时57分15秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时57分12秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时57分11秒	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时57分11秒	JJparents-6  执行步骤:获取密码登录游戏
+2021年10月20日18时57分11秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时57分10秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时57分7秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时57分7秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时57分7秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时57分7秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时57分1秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时56分41秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时56分39秒	JJparents-5  执行步骤:修改密码成功
+2021年10月20日18时56分39秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时56分39秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时56分39秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时56分39秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时56分33秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时56分30秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时56分24秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时56分24秒	JJparents-6  执行步骤:JJparents-6  金币不足
+2021年10月20日18时56分21秒	JJparents-1  执行步骤:修改密码成功
+2021年10月20日18时56分20秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时56分20秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时56分20秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时56分18秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时56分18秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时56分17秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时56分17秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时56分15秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时56分14秒	JJparents-2  执行步骤:JJparents-2登录结果:登录成功
+2021年10月20日18时56分5秒	JJparents-5  执行步骤:JJparents-5  修改密码
+2021年10月20日18时56分3秒	JJparents-5  执行步骤:JJparents-5登录结果:登录成功
+2021年10月20日18时56分1秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时55分59秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时55分59秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时55分59秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时55分59秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时55分54秒	JJparents-1  执行步骤:JJparents-1  修改密码
+2021年10月20日18时55分51秒	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时55分49秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时55分48秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时55分33秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时55分32秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时54分42秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时54分42秒	JJparents-5  执行步骤:获取密码登录游戏
+2021年10月20日18时54分42秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时54分37秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时54分37秒	JJparents-3  执行步骤:获取密码登录游戏
+2021年10月20日18时54分37秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时54分35秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时54分34秒	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时54分34秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时54分34秒	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时54分34秒	JJparents-6  执行步骤:获取密码登录游戏
+2021年10月20日18时54分34秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时54分34秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时54分34秒	JJparents-2  执行步骤:获取密码登录游戏
+2021年10月20日18时54分34秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时54分23秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时54分23秒	JJparents-4  执行步骤:获取密码登录游戏
+2021年10月20日18时54分23秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时53分28秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时53分28秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时53分28秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时53分28秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时53分28秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时53分28秒	JJparents-2  执行步骤:打开JJ斗地主
+2021年10月20日18时48分52秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时48分50秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时48分50秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时48分50秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时48分50秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时48分37秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时48分37秒	JJparents-1  执行步骤:JJparents-1  金币不足
+2021年10月20日18时48分35秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时48分31秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时48分30秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时48分29秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时48分29秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时48分29秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时48分28秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时48分28秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时48分27秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时48分27秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时48分26秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时48分26秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时48分26秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时48分26秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时48分25秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时48分25秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时48分24秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时48分24秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时48分24秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时48分24秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时48分21秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时48分21秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时48分21秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时48分21秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时48分21秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时48分21秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时48分19秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时48分19秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时48分19秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时48分19秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时48分19秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时48分19秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时48分19秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时48分19秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时48分18秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时48分18秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时48分18秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时48分18秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时48分15秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时48分15秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时48分9秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时48分7秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时48分7秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时48分7秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时48分7秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时48分7秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时48分6秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时48分6秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时48分5秒	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时48分3秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时47分49秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时47分49秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时47分49秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时47分49秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时47分41秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时47分41秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时47分41秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时47分41秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时47分41秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时47分41秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时47分41秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时47分41秒	JJparents-3  执行步骤:JJparents-3  登录失败
+2021年10月20日18时47分41秒	JJparents-3  执行步骤:JJparents-3登录结果:账号已登录
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时47分39秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时47分39秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时47分39秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时47分39秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时47分39秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时47分38秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时47分38秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时47分35秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时47分35秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时47分34秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时47分33秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时47分32秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时47分32秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时47分32秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时47分31秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时47分31秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时47分31秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时47分31秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时47分29秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时47分29秒	JJparents-3  执行步骤:获取密码登录游戏
+2021年10月20日18时47分29秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时47分29秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时47分29秒	JJparents-1  执行步骤:JJparents-1  登录失败
+2021年10月20日18时47分29秒	JJparents-1  执行步骤:JJparents-1登录结果:账号被封
+2021年10月20日18时47分28秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时47分27秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时47分18秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时47分18秒	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时47分18秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时46分57秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时46分48秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时46分44秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时46分44秒	JJparents-3  执行步骤:JJparents-3  金币不足
+2021年10月20日18时46分40秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时46分40秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时46分40秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时46分40秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时46分38秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时46分37秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时46分37秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时46分37秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时46分23秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时46分21秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时46分21秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时46分20秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时46分20秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时46分11秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时46分8秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时46分8秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时46分5秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时46分4秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时46分4秒	JJparents-1  执行步骤:JJparents-1  金币不足
+2021年10月20日18时46分3秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时46分3秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时46分3秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时46分2秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时46分	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时46分	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时46分	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时46分	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时45分58秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时45分58秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时45分58秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时45分58秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时45分56秒	JJparents-4  执行步骤:修改密码成功
+2021年10月20日18时45分47秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时45分40秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时45分36秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时45分35秒	JJparents-5  执行步骤:修改密码成功
+2021年10月20日18时45分34秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时45分34秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时45分34秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时45分33秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时45分32秒	JJparents-4  执行步骤:JJparents-4  修改密码
+2021年10月20日18时45分29秒	JJparents-4  执行步骤:JJparents-4登录结果:登录成功
+2021年10月20日18时45分27秒	JJparents-3  执行步骤:修改密码成功
+2021年10月20日18时45分14秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时45分11秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时45分11秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时45分10秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时45分10秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时45分5秒	JJparents-5  执行步骤:JJparents-5  修改密码
+2021年10月20日18时45分2秒	JJparents-3  执行步骤:JJparents-3  修改密码
+2021年10月20日18时45分2秒	JJparents-5  执行步骤:JJparents-5登录结果:登录成功
+2021年10月20日18时45分2秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时45分	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时45分	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时44分56秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时44分55秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时44分50秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时44分49秒	JJparents-2  执行步骤:JJparents-2登录结果:登录成功
+2021年10月20日18时44分13秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时44分13秒	JJparents-1  执行步骤:JJparents-1  登录失败
+2021年10月20日18时44分13秒	JJparents-1  执行步骤:JJparents-1登录结果:账号被封
+2021年10月20日18时44分8秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时44分7秒	JJparents-5  执行步骤:JJparents-5  登录失败
+2021年10月20日18时44分7秒	JJparents-5  执行步骤:JJparents-5登录结果:账号被封
+2021年10月20日18时44分1秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时44分1秒	JJparents-3  执行步骤:获取密码登录游戏
+2021年10月20日18时44分1秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时44分1秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时44分1秒	JJparents-4  执行步骤:获取密码登录游戏
+2021年10月20日18时44分1秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时44分	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时44分	JJparents-6  执行步骤:获取密码登录游戏
+2021年10月20日18时44分	JJparents-6  执行步骤:打开完成
+2021年10月20日18时44分	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时44分	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时44分	JJparents-1  执行步骤:打开完成
+2021年10月20日18时43分56秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时43分56秒	JJparents-5  执行步骤:获取密码登录游戏
+2021年10月20日18时43分56秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时43分56秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时43分55秒	JJparents-2  执行步骤:获取密码登录游戏
+2021年10月20日18时43分55秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时42分57秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时42分57秒	JJparents-2  执行步骤:打开JJ斗地主
+2021年10月20日18时42分57秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时42分57秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时42分57秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时42分57秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时42分2秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时42分2秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时42分1秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时42分	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时42分	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时41分58秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时41分54秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时41分54秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时41分54秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时41分54秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时41分54秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时41分52秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时41分51秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时41分51秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时41分51秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时41分51秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时41分51秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时41分48秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时41分45秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时41分43秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时41分43秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时41分43秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时41分43秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时41分42秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时41分42秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时41分42秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时41分40秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时41分39秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时41分36秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时41分19秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时41分18秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时41分18秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时41分17秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时41分11秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时41分10秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时41分10秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时41分10秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时41分10秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时41分10秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时41分8秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时41分7秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时41分4秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时41分4秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时41分4秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时41分4秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时41分2秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时41分2秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时41分2秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时41分2秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时41分2秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时41分1秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时41分1秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时40分58秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时40分58秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时40分42秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时40分42秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时40分42秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时40分42秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时40分35秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时40分35秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时40分34秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时40分34秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时40分34秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时40分34秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时40分32秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时40分32秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时40分32秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时40分32秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时40分32秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时40分31秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时40分31秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时40分29秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时40分28秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时40分22秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时40分22秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时40分20秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时40分20秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时40分20秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时40分20秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时40分20秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时40分20秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时40分20秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时40分20秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时40分19秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时40分19秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时40分19秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时40分19秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时40分16秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时40分16秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时39分51秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时39分51秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时39分51秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时39分51秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时39分43秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时39分43秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时39分43秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时39分43秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时39分43秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时39分43秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时39分41秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时39分41秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时39分41秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时39分41秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时39分41秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时39分41秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时39分41秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时39分41秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时39分40秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时39分40秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时39分40秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时39分40秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时39分37秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时39分37秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时39分28秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时39分28秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时39分26秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时39分26秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时39分26秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时39分26秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时39分26秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时39分25秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时39分25秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时39分22秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时39分22秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时39分2秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时39分1秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时39分1秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时39分1秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时38分54秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时38分54秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时38分54秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时38分54秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时38分53秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时38分53秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时38分52秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时38分52秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时38分52秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时38分52秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时38分51秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时38分51秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时38分51秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时38分48秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时38分47秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时38分47秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时38分45秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时38分41秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时38分19秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时38分18秒	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时38分18秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时38分17秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时38分16秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时38分16秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时38分16秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时38分15秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时38分14秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时38分14秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时38分14秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时38分14秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时38分14秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时38分11秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时38分9秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时38分9秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时38分9秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时38分8秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时38分6秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时38分2秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时37分42秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时37分41秒	JJparents-4  执行步骤:获取密码登录游戏
+2021年10月20日18时37分41秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时37分37秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时37分37秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时37分37秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时37分35秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时37分35秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时37分35秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时37分35秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时37分35秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时37分34秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时37分34秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时37分33秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时37分33秒	JJparents-1  执行步骤:JJparents-1  金币不足
+2021年10月20日18时37分33秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时37分33秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时37分33秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时37分33秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时37分32秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时37分32秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时37分31秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时37分29秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时37分28秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时37分28秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时37分28秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时37分28秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时37分27秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时37分27秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时37分26秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时37分26秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时37分26秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时37分26秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时37分25秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时37分25秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时37分25秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时37分25秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时37分25秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时37分25秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时37分25秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时37分25秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时37分4秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时37分3秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时36分59秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时36分57秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时36分57秒	JJparents-4  执行步骤:JJparents-4  金币不足
+2021年10月20日18时36分55秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时36分53秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时36分53秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时36分53秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时36分53秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时36分53秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时36分52秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时36分51秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时36分50秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时36分50秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时36分50秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时36分50秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时36分50秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时36分42秒	JJparents-6  执行步骤:修改密码成功
+2021年10月20日18时36分39秒	JJparents-3  执行步骤:修改密码成功
+2021年10月20日18时36分13秒	JJparents-6  执行步骤:JJparents-6  修改密码
+2021年10月20日18时36分12秒	JJparents-3  执行步骤:JJparents-3  修改密码
+2021年10月20日18时36分11秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时36分11秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时36分11秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时36分11秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时36分10秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时36分7秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时36分7秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时36分7秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时35分55秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时35分54秒	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时35分50秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时35分49秒	JJparents-2  执行步骤:JJparents-2登录结果:登录成功
+2021年10月20日18时35分48秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时35分47秒	JJparents-5  执行步骤:JJparents-5登录结果:登录成功
+2021年10月20日18时35分46秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时35分45秒	JJparents-4  执行步骤:JJparents-4登录结果:登录成功
+2021年10月20日18时35分15秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时35分15秒	JJparents-1  执行步骤:JJparents-1  登录失败
+2021年10月20日18时35分15秒	JJparents-1  执行步骤:JJparents-1登录结果:账号被封
+2021年10月20日18时35分7秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时35分7秒	JJparents-4  执行步骤:JJparents-4  登录失败
+2021年10月20日18时35分7秒	JJparents-4  执行步骤:JJparents-4登录结果:账号或密码错误
+2021年10月20日18时35分6秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时35分6秒	JJparents-1  执行步骤:JJparents-1  登录失败
+2021年10月20日18时35分6秒	JJparents-1  执行步骤:JJparents-1登录结果:账号或密码错误
+2021年10月20日18时35分4秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时35分4秒	JJparents-3  执行步骤:获取密码登录游戏
+2021年10月20日18时35分4秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时35分4秒	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时35分4秒	JJparents-6  执行步骤:获取密码登录游戏
+2021年10月20日18时35分4秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时34分55秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时34分55秒	JJparents-2  执行步骤:获取密码登录游戏
+2021年10月20日18时34分55秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时34分55秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时34分55秒	JJparents-5  执行步骤:获取密码登录游戏
+2021年10月20日18时34分55秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时34分54秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时34分54秒	JJparents-4  执行步骤:获取密码登录游戏
+2021年10月20日18时34分54秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时34分54秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时34分54秒	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时34分54秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时33分55秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时33分55秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时33分55秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时33分55秒	JJparents-2  执行步骤:打开JJ斗地主
+2021年10月20日18时33分55秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时33分55秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时32分49秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时32分47秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时32分47秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时32分47秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时32分47秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时32分46秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时32分46秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时32分45秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时32分43秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时32分43秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时32分43秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时32分43秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时32分36秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时32分36秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时32分36秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时32分36秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时32分36秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时32分36秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时32分34秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时32分34秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时32分34秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时32分33秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时32分33秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时32分33秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时32分33秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时32分30秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时32分30秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时32分19秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时32分19秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时32分17秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时32分17秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时32分17秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时32分17秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时32分17秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时32分17秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时32分17秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时32分17秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时32分16秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时32分16秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时32分16秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时32分16秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时32分16秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时32分16秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时32分16秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时32分13秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时32分13秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时32分9秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时32分9秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时32分9秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时32分9秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时32分6秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时32分3秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时31分51秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时31分50秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时31分48秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时31分48秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时31分48秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时31分48秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时31分48秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时31分47秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时31分47秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时31分45秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时31分44秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时31分30秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时31分30秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时31分30秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时31分22秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时31分22秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时31分22秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时31分22秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时31分22秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时31分19秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时31分19秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时31分16秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时31分15秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时30分54秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时30分52秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时30分50秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时30分49秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时30分49秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时30分49秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时30分48秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时30分43秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时30分43秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时30分42秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时30分42秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时30分42秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时30分42秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时30分41秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时30分41秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时30分41秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时30分40秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时30分40秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时30分40秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时30分40秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时30分40秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时30分39秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时30分39秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时30分39秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时30分39秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时30分39秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时30分39秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时30分38秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时30分38秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时30分38秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时30分38秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时30分38秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时30分38秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时30分38秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时30分37秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时30分35秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时30分34秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时30分21秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时30分20秒	JJparents-5  执行步骤:获取密码登录游戏
+2021年10月20日18时30分20秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时30分8秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时30分8秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时30分8秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时30分8秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时30分7秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时30分7秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时30分7秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时30分6秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时30分6秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时30分4秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时29分58秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时29分58秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时29分58秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时29分58秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时29分58秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时29分58秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时29分57秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时29分56秒	JJparents-4  执行步骤:JJparents-4  询问是否继续打二麻
+2021年10月20日18时29分56秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时29分55秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时29分55秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时29分55秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时29分55秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时29分55秒	JJparents-2  执行步骤:JJparents-2  询问是否继续打二麻
+2021年10月20日18时29分54秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时29分54秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时29分54秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时29分54秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时29分52秒	JJparents-4  执行步骤:JJparents-4  返回自由桌界面
+2021年10月20日18时29分51秒	JJparents-2  执行步骤:JJparents-2  返回自由桌界面
+2021年10月20日18时29分29秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时29分23秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时29分15秒	JJparents-4  执行步骤:JJparents-4  进入游戏获取对局ID
+2021年10月20日18时29分15秒	JJparents-2  执行步骤:JJparents-2  进入游戏获取对局ID
+2021年10月20日18时29分11秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时29分9秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时29分9秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时29分9秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时29分9秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时29分5秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时29分5秒	JJparents-5  执行步骤:JJparents-5  金币不足
+2021年10月20日18时29分1秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时29分1秒	JJparents-4  执行步骤:JJparents-4  3秒后开始报名
+2021年10月20日18时29分1秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时29分1秒	JJparents-2  执行步骤:JJparents-2  3秒后开始报名
+2021年10月20日18时29分1秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时29分1秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时29分	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时29分	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时28分58秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时28分58秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时28分58秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时28分58秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时28分58秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时28分58秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时28分58秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时28分58秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时28分58秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时28分58秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时28分47秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时28分41秒	JJparents-1  执行步骤:修改密码成功
+2021年10月20日18时28分41秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时28分41秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时28分41秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时28分35秒	JJparents-6  执行步骤:修改密码成功
+2021年10月20日18时28分34秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时28分34秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时28分34秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时28分28秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时28分26秒	JJparents-4  执行步骤:JJparents-4登录结果:登录成功
+2021年10月20日18时28分8秒	JJparents-6  执行步骤:JJparents-6  修改密码
+2021年10月20日18时28分6秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时28分6秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时28分4秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时28分2秒	JJparents-1  执行步骤:JJparents-1  修改密码
+2021年10月20日18时28分	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时28分	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时27分59秒	JJparents-2  执行步骤:JJparents-2登录结果:登录成功
+2021年10月20日18时27分58秒	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时27分46秒	JJparents-5  执行步骤:JJparents-5登录结果:登录成功
+2021年10月20日18时27分20秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时27分20秒	JJparents-4  执行步骤:获取密码登录游戏
+2021年10月20日18时27分20秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时27分11秒	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时27分11秒	JJparents-6  执行步骤:JJparents-6  登录失败
+2021年10月20日18时27分11秒	JJparents-6  执行步骤:JJparents-6登录结果:账号被封
+2021年10月20日18时27分9秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时27分9秒	JJparents-1  执行步骤:JJparents-1  登录失败
+2021年10月20日18时27分9秒	JJparents-1  执行步骤:JJparents-1登录结果:账号被封
+2021年10月20日18时27分9秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时27分9秒	JJparents-2  执行步骤:JJparents-2  登录失败
+2021年10月20日18时27分9秒	JJparents-2  执行步骤:JJparents-2登录结果:账号或密码错误
+2021年10月20日18时27分6秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时27分6秒	JJparents-5  执行步骤:获取密码登录游戏
+2021年10月20日18时27分6秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时27分	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时26分59秒	JJparents-6  执行步骤:获取密码登录游戏
+2021年10月20日18时26分59秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时26分57秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时26分57秒	JJparents-2  执行步骤:获取密码登录游戏
+2021年10月20日18时26分57秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时26分56秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时26分56秒	JJparents-1  执行步骤:获取密码登录游戏
+2021年10月20日18时26分56秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时26分50秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时26分50秒	JJparents-3  执行步骤:获取密码登录游戏
+2021年10月20日18时26分50秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时25分59秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时25分59秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时25分59秒	JJparents-2  执行步骤:打开JJ斗地主
+2021年10月20日18时25分59秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时25分59秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时25分59秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时14分34秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时14分34秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时14分33秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时14分26秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时14分26秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时14分26秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时14分26秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时14分26秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时14分24秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时14分24秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时14分24秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时14分24秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时14分23秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时14分23秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时14分23秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时14分20秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时14分19秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时14分5秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时14分3秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时14分3秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时14分3秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时14分3秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时14分2秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时14分2秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时13分59秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时13分36秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时13分36秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时13分36秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时13分28秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时13分28秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时13分28秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时13分28秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时13分28秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时13分26秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时13分25秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时13分25秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时13分25秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时13分25秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时13分25秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时13分25秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时13分22秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时13分22秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时12分45秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时12分43秒	JJparents-3  执行步骤:JJparents-3  询问是否继续打二麻
+2021年10月20日18时12分39秒	JJparents-3  执行步骤:JJparents-3  返回自由桌界面
+2021年10月20日18时12分21秒	JJparents-3  执行步骤:JJparents-3  进入游戏获取对局ID
+2021年10月20日18时12分19秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时12分17秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时12分16秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时12分16秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时12分8秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时12分8秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时12分8秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时12分8秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时12分7秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时12分6秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时12分6秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时12分6秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时12分6秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时12分6秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时12分6秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时12分6秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时12分6秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时12分5秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时12分5秒	JJparents-6  执行步骤:JJparents-6  询问是否继续打二麻
+2021年10月20日18时12分5秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时12分3秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时12分2秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时12分2秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时12分2秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时12分2秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时12分2秒	JJparents-6  执行步骤:JJparents-6  返回自由桌界面
+2021年10月20日18时11分39秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时11分27秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时11分24秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时11分21秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时11分20秒	JJparents-3  执行步骤:修改密码成功
+2021年10月20日18时11分8秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时10分52秒	JJparents-3  执行步骤:JJparents-3  修改密码
+2021年10月20日18时10分49秒	JJparents-6  执行步骤:JJparents-6  进入游戏获取对局ID
+2021年10月20日18时10分49秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时10分44秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时10分36秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时10分36秒	JJparents-6  执行步骤:JJparents-6  3秒后开始报名
+2021年10月20日18时10分36秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时10分36秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时10分35秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时10分33秒	JJparents-5  执行步骤:JJparents-5  询问是否继续打二麻
+2021年10月20日18时10分33秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时10分32秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时10分32秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时10分32秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时10分32秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时10分32秒	JJparents-1  执行步骤:JJparents-1  询问是否继续打二麻
+2021年10月20日18时10分30秒	JJparents-5  执行步骤:JJparents-5  返回自由桌界面
+2021年10月20日18时10分29秒	JJparents-1  执行步骤:JJparents-1  返回自由桌界面
+2021年10月20日18时10分27秒	JJparents-6  执行步骤:JJparents-6  等待报名
+2021年10月20日18时10分25秒	JJparents-6  执行步骤:JJparents-6  点开报名界面
+2021年10月20日18时10分25秒	JJparents-6  执行步骤:JJparents-6  获取进入场
+2021年10月20日18时10分25秒	JJparents-6  执行步骤:JJparents-6  更新昵称
+2021年10月20日18时10分25秒	JJparents-6  执行步骤:JJparents-6  更新金币数
+2021年10月20日18时9分59秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时9分59秒	JJparents-3  执行步骤:获取账号密码
+2021年10月20日18时9分59秒	JJparents-3  执行步骤:登录游戏
+2021年10月20日18时9分59秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时9分54秒	JJparents-6  执行步骤:JJparents-6  进入极速二麻自由桌界面
+2021年10月20日18时9分41秒	JJparents-6  执行步骤:修改密码成功
+2021年10月20日18时9分40秒	JJparents-2  执行步骤:JJparents-2  等待报名
+2021年10月20日18时9分38秒	JJparents-2  执行步骤:JJparents-2  点开报名界面
+2021年10月20日18时9分38秒	JJparents-2  执行步骤:JJparents-2  获取进入场
+2021年10月20日18时9分38秒	JJparents-2  执行步骤:JJparents-2  更新昵称
+2021年10月20日18时9分38秒	JJparents-2  执行步骤:JJparents-2  更新金币数
+2021年10月20日18时9分16秒	JJparents-6  执行步骤:JJparents-6  修改密码
+2021年10月20日18时9分13秒	JJparents-6  执行步骤:JJparents-6登录结果:登录成功
+2021年10月20日18时9分13秒	JJparents-2  执行步骤:JJparents-2  进入极速二麻自由桌界面
+2021年10月20日18时9分11秒	JJparents-4  执行步骤:JJparents-4  等待报名
+2021年10月20日18时9分9秒	JJparents-4  执行步骤:JJparents-4  点开报名界面
+2021年10月20日18时9分9秒	JJparents-4  执行步骤:JJparents-4  获取进入场
+2021年10月20日18时9分9秒	JJparents-4  执行步骤:JJparents-4  更新昵称
+2021年10月20日18时9分9秒	JJparents-4  执行步骤:JJparents-4  更新金币数
+2021年10月20日18时8分59秒	JJparents-1  执行步骤:JJparents-1  进入游戏获取对局ID
+2021年10月20日18时8分59秒	JJparents-5  执行步骤:JJparents-5  进入游戏获取对局ID
+2021年10月20日18时8分59秒	JJparents-2  执行步骤:修改密码成功
+2021年10月20日18时8分58秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时8分54秒	JJparents-3  执行步骤:JJparents-3  金币不足
+2021年10月20日18时8分50秒	JJparents-3  执行步骤:JJparents-3  3秒后开始报名
+2021年10月20日18时8分50秒	JJparents-1  执行步骤:JJparents-1  3秒后开始报名
+2021年10月20日18时8分50秒	JJparents-5  执行步骤:JJparents-5  3秒后开始报名
+2021年10月20日18时8分50秒	JJparents-3  执行步骤:JJparents-3  等待报名
+2021年10月20日18时8分49秒	JJparents-1  执行步骤:JJparents-1  等待报名
+2021年10月20日18时8分49秒	JJparents-5  执行步骤:JJparents-5  等待报名
+2021年10月20日18时8分48秒	JJparents-3  执行步骤:JJparents-3  点开报名界面
+2021年10月20日18时8分47秒	JJparents-1  执行步骤:JJparents-1  点开报名界面
+2021年10月20日18时8分47秒	JJparents-5  执行步骤:JJparents-5  点开报名界面
+2021年10月20日18时8分47秒	JJparents-5  执行步骤:JJparents-5  获取进入场
+2021年10月20日18时8分47秒	JJparents-5  执行步骤:JJparents-5  更新昵称
+2021年10月20日18时8分47秒	JJparents-5  执行步骤:JJparents-5  更新金币数
+2021年10月20日18时8分44秒	JJparents-1  执行步骤:JJparents-1  获取进入场
+2021年10月20日18时8分44秒	JJparents-1  执行步骤:JJparents-1  更新昵称
+2021年10月20日18时8分43秒	JJparents-1  执行步骤:JJparents-1  更新金币数
+2021年10月20日18时8分41秒	JJparents-3  执行步骤:JJparents-3  获取进入场
+2021年10月20日18时8分41秒	JJparents-3  执行步骤:JJparents-3  更新昵称
+2021年10月20日18时8分41秒	JJparents-3  执行步骤:JJparents-3  更新金币数
+2021年10月20日18时8分30秒	JJparents-2  执行步骤:JJparents-2  修改密码
+2021年10月20日18时8分27秒	JJparents-2  执行步骤:JJparents-2登录结果:登录成功
+2021年10月20日18时8分24秒	JJparents-5  执行步骤:JJparents-5  进入极速二麻自由桌界面
+2021年10月20日18时8分23秒	JJparents-1  执行步骤:JJparents-1  进入极速二麻自由桌界面
+2021年10月20日18时8分23秒	JJparents-5  执行步骤:JJparents-5登录结果:登录成功
+2021年10月20日18时8分22秒	JJparents-1  执行步骤:JJparents-1登录结果:登录成功
+2021年10月20日18时8分21秒	JJparents-3  执行步骤:JJparents-3  进入极速二麻自由桌界面
+2021年10月20日18时8分21秒	JJparents-4  执行步骤:JJparents-4  进入极速二麻自由桌界面
+2021年10月20日18时8分20秒	JJparents-3  执行步骤:JJparents-3登录结果:登录成功
+2021年10月20日18时8分19秒	JJparents-4  执行步骤:JJparents-4登录结果:登录成功
+2021年10月20日18时7分45秒	JJparents-6  执行步骤:JJparents-6登录JJ斗地主
+2021年10月20日18时7分44秒	JJparents-6  执行步骤:获取账号密码
+2021年10月20日18时7分44秒	JJparents-6  执行步骤:登录游戏
+2021年10月20日18时7分44秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时7分39秒	JJparents-4  执行步骤:JJparents-4登录JJ斗地主
+2021年10月20日18时7分39秒	JJparents-4  执行步骤:获取账号密码
+2021年10月20日18时7分39秒	JJparents-4  执行步骤:登录游戏
+2021年10月20日18时7分39秒	JJparents-4  执行步骤:打开完成
+2021年10月20日18时7分37秒	JJparents-2  执行步骤:JJparents-2登录JJ斗地主
+2021年10月20日18时7分37秒	JJparents-2  执行步骤:获取账号密码
+2021年10月20日18时7分37秒	JJparents-2  执行步骤:登录游戏
+2021年10月20日18时7分37秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时7分37秒	JJparents-5  执行步骤:JJparents-5登录JJ斗地主
+2021年10月20日18时7分36秒	JJparents-5  执行步骤:获取账号密码
+2021年10月20日18时7分36秒	JJparents-5  执行步骤:登录游戏
+2021年10月20日18时7分36秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时7分34秒	JJparents-1  执行步骤:JJparents-1登录JJ斗地主
+2021年10月20日18时7分34秒	JJparents-1  执行步骤:获取账号密码
+2021年10月20日18时7分34秒	JJparents-1  执行步骤:登录游戏
+2021年10月20日18时7分34秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时7分32秒	JJparents-3  执行步骤:JJparents-3登录JJ斗地主
+2021年10月20日18时7分31秒	JJparents-3  执行步骤:获取账号密码
+2021年10月20日18时7分31秒	JJparents-3  执行步骤:登录游戏
+2021年10月20日18时7分31秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时6分42秒	JJparents-4  执行步骤:打开JJ斗地主
+2021年10月20日18时6分42秒	JJparents-6  执行步骤:打开JJ斗地主
+2021年10月20日18时6分42秒	JJparents-2  执行步骤:打开JJ斗地主
+2021年10月20日18时6分41秒	JJparents-3  执行步骤:打开JJ斗地主
+2021年10月20日18时6分41秒	JJparents-5  执行步骤:打开JJ斗地主
+2021年10月20日18时6分41秒	JJparents-1  执行步骤:打开JJ斗地主
+2021年10月20日18时1分38秒	JJparents-6  执行步骤:获取进入场
+2021年10月20日18时1分38秒	JJparents-6  执行步骤:更新昵称
+2021年10月20日18时1分38秒	JJparents-6  执行步骤:更新金币数
+2021年10月20日18时1分38秒	JJparents-4  执行步骤:等待报名
+2021年10月20日18时1分38秒	JJparents-5  执行步骤:等待报名
+2021年10月20日18时1分37秒	JJparents-3  执行步骤:等待报名
+2021年10月20日18时1分35秒	JJparents-5  执行步骤:点开报名界面
+2021年10月20日18时1分35秒	JJparents-4  执行步骤:点开报名界面
+2021年10月20日18时1分35秒	JJparents-3  执行步骤:点开报名界面
+2021年10月20日18时1分35秒	JJparents-3  执行步骤:获取进入场
+2021年10月20日18时1分35秒	JJparents-3  执行步骤:更新昵称
+2021年10月20日18时1分35秒	JJparents-3  执行步骤:更新金币数
+2021年10月20日18时1分33秒	JJparents-4  执行步骤:获取进入场
+2021年10月20日18时1分33秒	JJparents-4  执行步骤:更新昵称
+2021年10月20日18时1分33秒	JJparents-4  执行步骤:更新金币数
+2021年10月20日18时1分32秒	JJparents-5  执行步骤:获取进入场
+2021年10月20日18时1分32秒	JJparents-5  执行步骤:更新昵称
+2021年10月20日18时1分32秒	JJparents-5  执行步骤:更新金币数
+2021年10月20日18时1分18秒	JJparents-6  执行步骤:进入极速二麻自由桌界面
+2021年10月20日18时1分17秒	JJparents-6  执行步骤:登录结果:登录成功
+2021年10月20日18时1分15秒	JJparents-3  执行步骤:进入极速二麻自由桌界面
+2021年10月20日18时1分14秒	JJparents-3  执行步骤:登录结果:登录成功
+2021年10月20日18时1分14秒	JJparents-4  执行步骤:进入极速二麻自由桌界面
+2021年10月20日18时1分13秒	JJparents-5  执行步骤:进入极速二麻自由桌界面
+2021年10月20日18时1分12秒	JJparents-4  执行步骤:登录结果:登录成功
+2021年10月20日18时1分11秒	JJparents-5  执行步骤:登录结果:登录成功
+2021年10月20日18时0分50秒	JJparents-2  执行步骤:登录JJ斗地主
+2021年10月20日18时0分50秒	JJparents-2  执行步骤:登录失败
+2021年10月20日18时0分50秒	JJparents-2  执行步骤:登录结果:账号被封
+2021年10月20日18时0分36秒	JJparents-2  执行步骤:登录JJ斗地主
+2021年10月20日18时0分36秒	JJparents-2  执行步骤:获取账号密码
+2021年10月20日18时0分36秒	JJparents-2  执行步骤:登录游戏
+2021年10月20日18时0分36秒	JJparents-2  执行步骤:打开完成
+2021年10月20日18时0分36秒	JJparents-3  执行步骤:登录JJ斗地主
+2021年10月20日18时0分36秒	JJparents-3  执行步骤:获取账号密码
+2021年10月20日18时0分36秒	JJparents-3  执行步骤:登录游戏
+2021年10月20日18时0分36秒	JJparents-3  执行步骤:打开完成
+2021年10月20日18时0分35秒	JJparents-1  执行步骤:登录JJ斗地主
+2021年10月20日18时0分35秒	JJparents-1  执行步骤:获取账号密码
+2021年10月20日18时0分35秒	JJparents-1  执行步骤:登录游戏
+2021年10月20日18时0分35秒	JJparents-1  执行步骤:打开完成
+2021年10月20日18时0分35秒	JJparents-5  执行步骤:登录JJ斗地主
+2021年10月20日18时0分35秒	JJparents-5  执行步骤:获取账号密码
+2021年10月20日18时0分35秒	JJparents-5  执行步骤:登录游戏
+2021年10月20日18时0分35秒	JJparents-5  执行步骤:打开完成
+2021年10月20日18时0分33秒	JJparents-6  执行步骤:登录JJ斗地主
+2021年10月20日18时0分33秒	JJparents-6  执行步骤:获取账号密码
+2021年10月20日18时0分33秒	JJparents-6  执行步骤:登录游戏
+2021年10月20日18时0分33秒	JJparents-6  执行步骤:打开完成
+2021年10月20日18时0分32秒	JJparents-4  执行步骤:登录JJ斗地主
+2021年10月20日18时0分30秒	JJparents-4  执行步骤:获取账号密码
+2021年10月20日18时0分30秒	JJparents-4  执行步骤:登录游戏
+2021年10月20日18时0分30秒	JJparents-4  执行步骤:打开完成
